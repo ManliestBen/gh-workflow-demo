@@ -6,3 +6,7 @@ There are no cats here, because they're afraid of the mongooses.
 
 
 <img src="https://imgur.com/a/xhZp6np">
+
+Here's a dog:
+
+<img src="https://i.imgur.com/vkRB6KE.jpg">
